@@ -15,7 +15,7 @@ image processing. Actively seeking opportunities to apply my skills in challengi
 professional environments and contribute to the development of innovative 
 projects. 
 
-# TECHNICAL SKILLS 
+## 🛠 TECHNICAL SKILLS 
 • Frontend: Vue.js, Leaflet.js, Flet (Python), Laravel, Django, Nest, React 
 • Backend: Node.js (Express.js), Python, PHP, C++, JavaScript, Arduino 
 • Databases: PostgreSQL (with PostGIS), MySQL, Neo4j 
