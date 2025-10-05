@@ -6,7 +6,7 @@ Computer Engineer
 chongo00011170428@gmail.com 
 Villa Clara, Cuba 
 
-# PROFESSIONAL PROFILE 
+## PROFESSIONAL PROFILE 
 Computer Engineer with solid experience in Full Stack software development 
 through academic projects and professional internships. Specialized in creating 
 scalable architectures (RUP, SCRUM) and developing complex solutions, including 
